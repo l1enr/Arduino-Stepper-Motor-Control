@@ -1,10 +1,5 @@
 # Arduino-Stepper-Motor-Control
 Precise angular position control of a 28BYJ-48 Stepper Motor using Arduino Uno and ULN2003 driver board.⁠
-# Precision Stepper Motor Control via Arduino
-
-A hardware implementation demonstrating precise angular positioning and motor drive control using the 28BYJ-48 Stepper Motor and ULN2003 Driver Board with an Arduino Uno.
-
----
 
 ## 📌 Project Overview
 
